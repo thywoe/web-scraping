@@ -17,7 +17,7 @@ cryptography==2.1.4
 cs50==4.0.2
 dataclasses==0.7
 distro-info===0.18ubuntu0.18.04.1
-Django==2.2.7
+Django==2.2.27
 djangorestframework==3.10.3
 djongo==1.2.36
 execnet==1.7.1
